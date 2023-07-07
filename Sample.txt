@@ -1,2 +1,2 @@
 
-Python is a good programming language
+Python is not a good language
